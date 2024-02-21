@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sword",
+        "description": "A sharp blade for combat",
+        "price": 50.0,
+        "quantity": 10
+    },
+    {
+        "name": "Bow",
+        "description": "A ranged weapon for archers",
+        "price": 40.0,
+        "quantity": 15
+    },
+    {
+        "name": "Plate Mail",
+        "description": "Heavy armor for protection",
+        "price": 100.0,
+        "quantity": 5
+    },
+    {
+        "name": "Leather Armor",
+        "description": "Light armor for agility",
+        "price": 60.0,
+        "quantity": 8
+    },
+    {
+        "name": "Health Potion",
+        "description": "Restores health points",
+        "price": 20.0,
+        "quantity": 20
+    },
+    {
+        "name": "Bubble Bath",
+        "description": "Relaxing bubble bath solution",
+        "price": 9.99,
+        "quantity": 200
+    },
+    {
+        "name": "Soap",
+        "description": "Refreshing scented soap",
+        "price": 2.49,
+        "quantity": 300
+    },
+    {
+        "name": "Perfume",
+        "description": "Elegant fragrance",
+        "price": 29.99,
+        "quantity": 150
+    }
+]

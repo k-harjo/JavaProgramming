@@ -1,0 +1,13 @@
+
+Topic 2-2
+
+3. The output displayed the class name, method name, and the power value that was passed to the `fireWeapon` method for both the `Bomb` and `Gun` classes. This occurred because the `fireWeapon` method was overridden in these classes, allowing them to provide their own implementation of the method while maintaining the same method signature as the parent `Weapon` class. As a result, when the `fireWeapon` method was called on instances of `Bomb` and `Gun`, their respective overridden implementations were invoked, producing the output with the relevant information.
+
+
+
+
+4. The output is displayed based on the inheritance and method overriding concepts in Java. The Bomb and Gun classes extend the Weapon class and override its fireWeapon method. In the Game class, instances of Bomb and Gun are created and their respective fireWeapon methods are called with different power values. The output shows the class names, method names, and power values, indicating that the overridden methods in the derived classes were invoked.
+
+
+
+5. The output is displayed because of the method overloading in the Gun class. When the fireWeapon method is called without any arguments, the overloaded version of the method in the Gun class is invoked. This version prints information about the class, method, and then calls the base class's fireWeapon method using the super keyword. This results in the output showing the details of the overloaded method call followed by the base class's method call and its respective details.
